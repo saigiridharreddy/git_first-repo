@@ -1,0 +1,4 @@
+Hello 
+I already know basics of git
+##
+Just making sure I didn't forget them. 
